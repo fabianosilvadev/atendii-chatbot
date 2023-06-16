@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "leardi-analia-franco",
+  "private_key_id": "969b9d0e9bae5ce6a5eece2af2c047c3c3072aad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+m8XNwLj0f4NP\nfOEHXY+GybDDC9QT8iHPIfD6VM7kXBWDFwpVQ8xXmD3lE7+SQ8eZWuSffMxu9tfe\nQv7qhb50TNDFqfrKnc3BWLY3xbNM3iQb4XucGx5kMZoQP8NBb2Ki/Jd6IIzrSsz0\n198DsU9W0mE/M77awgXhQjAjzZlWPs6Rxejot3N4lp7aeMNbXW8m1bbhE5C8KCdZ\nCF1DXBnaksW85mxYTIqNz7/NN2L6kqk1yhLUF5Q42bCem5jRt/9Rv6xCYrhHPTs2\nxltMgXXPecpFzUhcl7vP7KDnivIMp3gMRP6L0ilFdI/WIYZby2GwOpCnd23DWEcB\n32vMeweTAgMBAAECggEAExNmOOtsNzVEZXdIfWMM2FRQEefET5i1xH6PmOYAQf9r\nPGWDvbkddrjAR7BHGwgYg42tVWl5JjPNsoCUStFGwxSQTO/wLvNFt8S9O8NX6JNP\ncXuKp5AD5crHBzryZhaT0bROI+/6Wm6afiMqk7qHh6y3Wcq/yNyObRb22BEdTZxV\npb58qzyNmHat68wuxulXqGb6oxTyb35cEph4FNp4GHyWEjE0E/vqw36TgLj5Q3OK\n+J4ESeeIrMenEmzwQ+QLcdcRi80f1JesswUoIzbXb/ZmUd9DDFTKgt5kc/2d1U6c\n3IDJ65V1prFQRMS81CZQklQDyAcXijFzRoQOVe05LQKBgQDel2miK7Qq3KLfrgtW\nLA8AEYWILuTD06Ka+xTCWSnnPesU8RMFYWEfdWwUx6u9snFXl9mbXVZ+wp2Wh/Ws\nu6jQ/CGZEueRV4KCtui2LWPmsskfPpMq9Je0mmFEtmF1WF3GzZuPZCTeD3JAw++H\nFhjSHZadhsw6gYadCgE9iongPQKBgQDbN3wab4A+E5re1C/CtjapP/nCTbt+o8hQ\nuOzsgp/dXoXoIBBvyOiKNOoa5lqXHcaUm6S5OMQyXYWLjlZZchOavfDzDFpLq2Kk\nQQ6XNJVhGg4rbJg99hSXP4BJ52cz2UdWYBRvYZJTtRVZ5ilFFY2ik1OcyeTfdW6L\ni20I32y0DwKBgDsf/O8WrMS11o2TrW82RMW/4bhKvHlHvelsyBbXmEnUKJ1na6YC\nN8ojZpIed3/r5i9eJm8eW9tP1owlkRxQvIbGciY230u78u7Fpwq9A8xDsSibdnvy\nfFl8qFmYGEsTLdWgx7FO6HwTnkWVxgob1Hv7YAZ3x8fCn/8WqT2vjvABAoGASf8e\nqyW8Gjgv7MufG5C6PsNToVzvzz2l3mmtv+AP6n9/n+1C3xjoNc7Kvy3Gon/wijVH\nkyYwQ/gBniv7xdGWAIPhE4m16Rj/AQbcz/l1+wL6iXnsoe2w4aUTvt6XnY7YX7Wq\n8DX1WMAlZuUkRSeTWa91Z9VWpn9TQ1NbCMWyQc0CgYEAvmcjIbw8zBV88YowUaKy\nBbhtjmQ47wwPlBv2E0PLmw8qtkf+Rd72Wqgo8aAwaasovbWo+kdoWZRK4A1t5e+5\nAgh0n6GgwC70k6JtKQ+1GxmMLIpBPyANJKITLtSD9zQkG4QNhOAAkwRW8x5hxKoO\nIZB3rAqBG0SItx6BUyHcFy4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "leardi-analia-franco@leardi-analia-franco.iam.gserviceaccount.com",
+  "client_id": "100845279003416124124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/leardi-analia-franco%40leardi-analia-franco.iam.gserviceaccount.com"
+}

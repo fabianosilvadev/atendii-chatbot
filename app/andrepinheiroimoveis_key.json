@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "andrepinheiroimoveis-igrx",
+  "private_key_id": "34f8f8b8c107fb0c714ecbfeeeb7be4f06cb86f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfEg7BusGHyB/M\nSg3GXpQLraAcbtP8rqSEVaJFQZUc+9frMZ3BCv7uCSX1t+bSuqzQKqL78uks3s5u\nZtRk46wHQ4MnqGaRCudvG0m8te2TyFl/AJgvitYGE2M/OvnAJNfqcpbH77Bno0La\nykZMNAUJ/7T1MvgPio43/x+IoV02QirApCSMV23YSK1FVQKQGOcVkaHzNuI+Mjqc\nMRBvaHYiaHrjYMNa97W7ZjK/hPbEGh1mYrM1b2MQ+NottrXE+XpKzQYLeNY7FWAl\nVc9fNCvdXS5DRYectPYJzdrqS7s+I67k1ePHZTLTTMl8VjXxezi2XiY86JG/qPq6\nEb96kr+NAgMBAAECggEAMt8RnfUq8v384HAn9Yv2m7YwHCPbNNYYHzTPQZeL+7Tk\nYBbr2M0a56qO7VtP6NFZHU0H58jVC95Q+gT53Xs9bVekZqwlHeE8d85jkcV0hX4M\niOXYDwmMtwx/VvlqYPsWAXm58KU1F+F32uEDyJeZaZcWy89gmly5A8SrCpPwJ7Hg\nmx1CHs8Q+DeWqXV9YEbVIBiL3+oDIdJQrJumYOC59AHriD37V7+Z6ickBw0Bb80d\n+7Qz28FAxCtOwuYLtODyIM3YCOqpqunj2E+y3WaqRm9g9A+3lNLkpgNbEXlIDJZJ\nliCnxoXEc7n/tgkkqYaICrLeT+RToOTdevkazU50WQKBgQD8C7QMjk6/avs9sOXo\nA3z39pML2i2E1tBbHC92dN6YSwHj0H02+65eOJR9PqaHSO2Aipbn90ERYKJMWWoQ\n4lJFOQmhYGB84nTxS3I5m9gI286lnAChRd2t0FJiqIwGzbQIRv8qdkoaAvlg8Ulz\nQDYmIor35bfODha3J0d1LPyzBQKBgQDikfsOaXhO3I925sgQYhVxHZqnebd59/lz\n6qBXVcSdx9miQHAZmi4OtKzjUJvDNqIY6U6veU6X5Evmtd6S5J7OO8RzDDGgB8ht\nnUqfmyiVzONPPCpPNnbJ3kxM6Viq0cfmFo2Fqq3gcqiolzsU2wR6unOU7Y9qs9HQ\nMqQ7/C2Q6QKBgQCXk547MtYO7hKcPid1iat9IC+8oABh9CInuOKeVZiMdAd17ytu\nhpuNlG9Qhv31PBmBBVfNtvfNsJTKX7eW4dTiRnQRNfmxASuc9WeDV8LrSO2U0SXb\n1z2Cy1bQeFaFvO25UKEh8zOLQyCgeVtX0VT/SCTVArSwWe61RQ0HXf+21QKBgC63\nXOWu15CjJ62jjjLaloM5UG8hyLQMblH5WdBILf8+euBamwKcaMy9cjx4nXVV6Xxr\ndr71qz/kYcYTT+5H13q8lhgGtqDBmhEH8qAQNQEWOvRWen7Uww+Cl4bwQkkOckI9\n+jZKaAm0epQwgo0dT8IiebyGcyDULPnZx0VbDOYpAoGADRi2RCcxlGN2VxTAQB48\nyX+8KImIDG247OaRZ5SHNmE/7jjKIwTHSxzYzpnajN+Wive/6WZnhjhqh+srcHn9\nfhmXhdK83x8ZHnSMRt6f7wgpaMK5wWLiEir6yuXbHfhy+G87HGU0Nqkx+dcAqvwk\nHbK4/nr680UazEvEBiV7/ao=\n-----END PRIVATE KEY-----\n",
+  "client_email": "andrepinheiro@andrepinheiroimoveis-igrx.iam.gserviceaccount.com",
+  "client_id": "106856440657384867571",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/andrepinheiro%40andrepinheiroimoveis-igrx.iam.gserviceaccount.com"
+}

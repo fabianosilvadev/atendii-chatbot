@@ -1,0 +1,35 @@
+{
+  "name": "exemples-baileys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "jrCleber",
+    "url": "https://github.com/jrCleber/exemples-baileys"
+  },
+  "scripts": {
+    "app": "node ./index.js",
+    "app2": "node ./index2.js",
+    "app_imobiliaria": "node ./imobiliaria/index.js",
+    "test": "nodemon ./index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.1",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@google-cloud/dialogflow": "^4.6.0",
+    "axios": "^0.26.0",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "google-spreadsheet": "^3.2.0",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "node-cron": "^3.0.0",
+    "pino": "^7.8.0",
+    "qrcode": "^1.5.1",
+    "qrcode-terminal": "^0.12.0",
+    "socket.io": "^4.5.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

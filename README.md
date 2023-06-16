@@ -17,6 +17,19 @@ Assim que um usuário clica em um anúncio automaticamente a plataforma pega os 
 
 # Linguagem
 * Javascript
+* PHP
+* HTML
+* CSS
+* BOOTSTRAP
+* JQUERY
+
+# Framework
+* Laravel
+* NodeJs
+
+# Contato 
+* Linkedin https://www.linkedin.com/in/fabianosilvadev/
+
 
 # Framework
 * Node Js
